@@ -2,3 +2,4 @@ This is only a test
 Start keeping track of changes
 Adding yet another comment
 This line added for Conflicts exercise
+Anoter line for Conflicts exercise
